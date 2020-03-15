@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from "react-router-dom"
 import WeatherForm from "../Components/weatherform"
 import WeatherDisplay from '../Components/weatherdisplay'
-const API_KEY = 'enter your own';
+const API_KEY = 'a227a4a6ad7840f1b5182a07809af609';
 
 class WeatherPage extends React.Component {
     state = {
@@ -92,11 +92,6 @@ class WeatherPage extends React.Component {
     render() {
         return (
             <div className="App">
-                <h5>
-                    <Link to="/">Home    </Link>
-                    <Link to="/videopage">Videos    </Link>
-                    <Link to="/pestpage">Search Pests    </Link>
-                </h5>
                 <h4>Weather Forecast</h4>
                 <WeatherForm getWeather={this.getWeather} />
                 <div className="row justify-content-center">

@@ -9,11 +9,6 @@ class PestPage extends React.Component {
     render() {
         return (
             <div className="Pest">
-                <h5>
-                    <Link to="/">Home    </Link>
-                    <Link to="/weatherpage">Weather    </Link>
-                    <Link to="/videopage">Videos    </Link>
-                </h5>
                 <h5>Pest Search</h5>
                 <div className="row justify-content-center">
 
