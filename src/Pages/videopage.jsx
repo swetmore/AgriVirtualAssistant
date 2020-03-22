@@ -1,12 +1,17 @@
 import React from 'react';
-import { Link } from "react-router-dom"
+import { Link } from "react-router-dom";
+import SimpleSliderContainer from '../Components/SimpleSliderContainer';
 
-const VideoPage = () => {
-    return (
-        <div>
-            <h2>Videos</h2>
-        </div>
-    )
+
+
+export default class VideoPage extends React.Component
+{
+    render(props) {
+        return (
+        <div> 
+        <SimpleSliderContainer></SimpleSliderContainer>
+
+    </div>
+        );
+    };
 }
-
-export default VideoPage;
