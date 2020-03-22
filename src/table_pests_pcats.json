@@ -1,0 +1,390 @@
+[
+ {
+   "pest_id": 1,
+   "pcat_id": 1
+ },
+ {
+   "pest_id": 1,
+   "pcat_id": 8
+ },
+ {
+   "pest_id": 1,
+   "pcat_id": 12
+ },
+ {
+   "pest_id": 2,
+   "pcat_id": 1
+ },
+ {
+   "pest_id": 2,
+   "pcat_id": 4
+ },
+ {
+   "pest_id": 2,
+   "pcat_id": 12
+ },
+ {
+   "pest_id": 3,
+   "pcat_id": 1
+ },
+ {
+   "pest_id": 3,
+   "pcat_id": 4
+ },
+ {
+   "pest_id": 3,
+   "pcat_id": 12
+ },
+ {
+   "pest_id": 4,
+   "pcat_id": 1
+ },
+ {
+   "pest_id": 4,
+   "pcat_id": 4
+ },
+ {
+   "pest_id": 4,
+   "pcat_id": 5
+ },
+ {
+   "pest_id": 4,
+   "pcat_id": 12
+ },
+ {
+   "pest_id": 5,
+   "pcat_id": 1
+ },
+ {
+   "pest_id": 5,
+   "pcat_id": 6
+ },
+ {
+   "pest_id": 6,
+   "pcat_id": 1
+ },
+ {
+   "pest_id": 6,
+   "pcat_id": 4
+ },
+ {
+   "pest_id": 6,
+   "pcat_id": 12
+ },
+ {
+   "pest_id": 7,
+   "pcat_id": 1
+ },
+ {
+   "pest_id": 7,
+   "pcat_id": 4
+ },
+ {
+   "pest_id": 7,
+   "pcat_id": 7
+ },
+ {
+   "pest_id": 7,
+   "pcat_id": 12
+ },
+ {
+   "pest_id": 8,
+   "pcat_id": 1
+ },
+ {
+   "pest_id": 8,
+   "pcat_id": 7
+ },
+ {
+   "pest_id": 8,
+   "pcat_id": 12
+ },
+ {
+   "pest_id": 9,
+   "pcat_id": 1
+ },
+ {
+   "pest_id": 9,
+   "pcat_id": 4
+ },
+ {
+   "pest_id": 9,
+   "pcat_id": 12
+ },
+ {
+   "pest_id": 10,
+   "pcat_id": 1
+ },
+ {
+   "pest_id": 10,
+   "pcat_id": 5
+ },
+ {
+   "pest_id": 10,
+   "pcat_id": 12
+ },
+ {
+   "pest_id": 11,
+   "pcat_id": 1
+ },
+ {
+   "pest_id": 11,
+   "pcat_id": 6
+ },
+ {
+   "pest_id": 11,
+   "pcat_id": 7
+ },
+ {
+   "pest_id": 11,
+   "pcat_id": 13
+ },
+ {
+   "pest_id": 12,
+   "pcat_id": 1
+ },
+ {
+   "pest_id": 12,
+   "pcat_id": 5
+ },
+ {
+   "pest_id": 12,
+   "pcat_id": 8
+ },
+ {
+   "pest_id": 12,
+   "pcat_id": 12
+ },
+ {
+   "pest_id": 13,
+   "pcat_id": 1
+ },
+ {
+   "pest_id": 13,
+   "pcat_id": 10
+ },
+ {
+   "pest_id": 13,
+   "pcat_id": 12
+ },
+ {
+   "pest_id": 14,
+   "pcat_id": 1
+ },
+ {
+   "pest_id": 14,
+   "pcat_id": 4
+ },
+ {
+   "pest_id": 14,
+   "pcat_id": 5
+ },
+ {
+   "pest_id": 14,
+   "pcat_id": 7
+ },
+ {
+   "pest_id": 14,
+   "pcat_id": 12
+ },
+ {
+   "pest_id": 15,
+   "pcat_id": 1
+ },
+ {
+   "pest_id": 15,
+   "pcat_id": 6
+ },
+ {
+   "pest_id": 15,
+   "pcat_id": 7
+ },
+ {
+   "pest_id": 15,
+   "pcat_id": 8
+ },
+ {
+   "pest_id": 15,
+   "pcat_id": 12
+ },
+ {
+   "pest_id": 16,
+   "pcat_id": 1
+ },
+ {
+   "pest_id": 16,
+   "pcat_id": 6
+ },
+ {
+   "pest_id": 16,
+   "pcat_id": 7
+ },
+ {
+   "pest_id": 16,
+   "pcat_id": 12
+ },
+ {
+   "pest_id": 17,
+   "pcat_id": 1
+ },
+ {
+   "pest_id": 17,
+   "pcat_id": 5
+ },
+ {
+   "pest_id": 17,
+   "pcat_id": 6
+ },
+ {
+   "pest_id": 17,
+   "pcat_id": 7
+ },
+ {
+   "pest_id": 17,
+   "pcat_id": 12
+ },
+ {
+   "pest_id": 18,
+   "pcat_id": 1
+ },
+ {
+   "pest_id": 18,
+   "pcat_id": 6
+ },
+ {
+   "pest_id": 18,
+   "pcat_id": 7
+ },
+ {
+   "pest_id": 18,
+   "pcat_id": 8
+ },
+ {
+   "pest_id": 18,
+   "pcat_id": 12
+ },
+ {
+   "pest_id": 19,
+   "pcat_id": 1
+ },
+ {
+   "pest_id": 19,
+   "pcat_id": 5
+ },
+ {
+   "pest_id": 19,
+   "pcat_id": 14
+ },
+ {
+   "pest_id": 20,
+   "pcat_id": 1
+ },
+ {
+   "pest_id": 20,
+   "pcat_id": 4
+ },
+ {
+   "pest_id": 20,
+   "pcat_id": 12
+ },
+ {
+   "pest_id": 21,
+   "pcat_id": 1
+ },
+ {
+   "pest_id": 21,
+   "pcat_id": 6
+ },
+ {
+   "pest_id": 22,
+   "pcat_id": 1
+ },
+ {
+   "pest_id": 22,
+   "pcat_id": 4
+ },
+ {
+   "pest_id": 22,
+   "pcat_id": 7
+ },
+ {
+   "pest_id": 22,
+   "pcat_id": 12
+ },
+ {
+   "pest_id": 23,
+   "pcat_id": 2
+ },
+ {
+   "pest_id": 23,
+   "pcat_id": 11
+ },
+ {
+   "pest_id": 24,
+   "pcat_id": 2
+ },
+ {
+   "pest_id": 24,
+   "pcat_id": 7
+ },
+ {
+   "pest_id": 24,
+   "pcat_id": 8
+ },
+ {
+   "pest_id": 25,
+   "pcat_id": 2
+ },
+ {
+   "pest_id": 25,
+   "pcat_id": 7
+ },
+ {
+   "pest_id": 25,
+   "pcat_id": 8
+ },
+ {
+   "pest_id": 26,
+   "pcat_id": 2
+ },
+ {
+   "pest_id": 26,
+   "pcat_id": 8
+ },
+ {
+   "pest_id": 27,
+   "pcat_id": 2
+ },
+ {
+   "pest_id": 27,
+   "pcat_id": 4
+ },
+ {
+   "pest_id": 28,
+   "pcat_id": 2
+ },
+ {
+   "pest_id": 28,
+   "pcat_id": 7
+ },
+ {
+   "pest_id": 29,
+   "pcat_id": 2
+ },
+ {
+   "pest_id": 29,
+   "pcat_id": 4
+ },
+ {
+   "pest_id": 30,
+   "pcat_id": 2
+ },
+ {
+   "pest_id": 30,
+   "pcat_id": 7
+ },
+ {
+   "pest_id": 30,
+   "pcat_id": 8
+ }
+]

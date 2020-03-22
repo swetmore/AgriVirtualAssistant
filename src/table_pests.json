@@ -1,0 +1,212 @@
+[
+ {
+   "pest_id": 1,
+   "pest_name": "Asian Citrus Psyllid",
+   "pest_symptoms": "Visible psyllids or waxy psyllid dropping; Lopsided, bitter, hard fruit with small, dark aborted seed; Fruit that remains green even when ripe; Asymmetrical blotchy mottling of leaves; Yellow shoots; Twig dieback; Stunted, sparsely foliated trees that may bloom off season; Causes Citrus Greening",
+   "pest_photo": "https://www.aphis.usda.gov/wcm/connect/1153e460-f0e0-4312-8f7c-445f577c3cce/acp-slide3.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE-1153e460-f0e0-4312-8f7c-445f577c3cce-mosEF09",
+   "pest_solutions": "Controlling psyllid populations and destroying infected trees."
+ },
+ {
+   "pest_id": 2,
+   "pest_name": "Asian Gypsy Moth",
+   "pest_symptoms": "Egg masses on tree trunks, limbs and leaves, as well as on stones, walls, logs, lawn furniture and other outdoor objects. Egg masses are covered with buff or yellowish fuzz and average 1 1/2 inches by 2/4 inches wide, but can be as small as a dime; Caterpillers feeding on tree and shrug leaves. Newly hatched caterpillars are approximately 1/8 inch in length and tan in color. Mature caterpillars may range from 2 to 3 1/2 inches in length and have two rows of blue and red spots on their backs. The mature caterpillar is most often a mottle dark gray color, but can vary from yellow to black.; Adult moths are attracted to outdoor lighting and most active at dusk. Adult male moths have grayish-brown wings and a wingspan of 1 1/2 inches. Adult female moths are white and larger, with wingspans of up to 3 1/2 inches.; Defoliated trees.",
+   "pest_photo": "https://www.aphis.usda.gov/wcm/connect/e9e8e0d8-99c1-4b1c-b26c-06dd47d7276d/agm-slide5.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE-e9e8e0d8-99c1-4b1c-b26c-06dd47d7276d-mosEArA",
+   "pest_solutions": "Use moth traps to monitor population and spray leaves of trees to kill caterpillars. Spray treatment is most effective when caterpillars are young (less than 1 inch)."
+ },
+ {
+   "pest_id": 3,
+   "pest_name": "Asian Longhorned Beetle",
+   "pest_symptoms": "Sigms start to show about 3 to 4 years after infestation, with tree death occuring in 10 to 15 years depending on the tree's overall health and site conditions.",
+   "pest_photo": "https://bygl.osu.edu/sites/default/files/field/image/Adult 2013 4_0.jpg",
+   "pest_solutions": "Infested trees do not recover nor regenerate. Therefore, infested trees should be destroyed as soon as symptoms appear to prevent spread. "
+ },
+ {
+   "pest_id": 4,
+   "pest_name": "Coconut Rhinoceros Beetle",
+   "pest_symptoms": "V-shaped cuts in the crown of palms; Large bore holes at the base of the palm fronds; Visibly sick or dying palm trees.",
+   "pest_photo": "https://www.aphis.usda.gov/wcm/connect/46a9929f-878e-4d19-97bb-b1728e67dc13/slide3.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE-46a9929f-878e-4d19-97bb-b1728e67dc13-mosER6F",
+   "pest_solutions": "Monitor for bore holes and V-shaped cuts on palm fronds. Inspect mulch and compost piles for beetle larvae."
+ },
+ {
+   "pest_id": 5,
+   "pest_name": "Dickeya",
+   "pest_symptoms": "In wet conditions, symptoms include slimy, black rot lesions spreading from the rotting tuber up the stem; In dry conditions, symptoms are stunting, yellowing, wilting, and stem desiccation; Tuber soft rot includes macerated tissue with creamy exudate which turns black; In the case of secondary bacterial infection, tubers often have a foul smell. ",
+   "pest_photo": "https://spudman.com/wp-content/uploads/2016/09/dickeya2-1024x637.jpg",
+   "pest_solutions": "Eliminate cull piles as they can be a source of inoculum and do not dispose of cull potatoes on fields that will be used for potato production. "
+ },
+ {
+   "pest_id": 6,
+   "pest_name": "Emerald Ash Borer",
+   "pest_symptoms": "Yellow, thin or wilted foliage; Unusual woodpecker presence and pecking holes; D-shaped beetle exit holes; Shoots growing from roots or a tree's trunk, often with larger-than-normal leaves",
+   "pest_photo": "https://www.aphis.usda.gov/wcm/connect/baee5969-3b8e-4040-aad4-64826ca3c6d1/eab2.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE-baee5969-3b8e-4040-aad4-64826ca3c6d1-mosFcNJ",
+   "pest_solutions": "Prevent spread by not moving firewood, larvae can survive hidden in the bark of firewood. "
+ },
+ {
+   "pest_id": 7,
+   "pest_name": "European Cherry Fruit Fly",
+   "pest_symptoms": "Larvae-infested fruit may have dark soft spots or appear wilted or shriveled; As mature larvae emerge from the fruit, they may leave behind visible exit holes; Visible adult flies are mostly black with yellow to orange heads, and a large yellow dot is visible on their back",
+   "pest_photo": "https://www.aphis.usda.gov/wcm/connect/9d7f2a4d-a6eb-46cc-8376-502c0785a8cf/AECFF.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE-9d7f2a4d-a6eb-46cc-8376-502c0785a8cf-mosEyZ2",
+   "pest_solutions": "Maintaining a clean orchard by removing dropped fruit and removing wild and abandoned host trees."
+ },
+ {
+   "pest_id": 8,
+   "pest_name": "European Grapevine Moth",
+   "pest_symptoms": "Visible adult moths have creamy white forewings with pale-yellowish overlay and deeply bluish-gray coloring. Black, yellow, and light olive-brown markings are spread across the wing. The hind wing is white with a dark gray sub-basal line. The hind wing of the female is completely dark gray; Visible larvae have a yellowish brown head and an abdomen varying from yellowish green to whitish brown or brown, approximately 9-10mm long. Body can be completely translucent and larvae has short and retracted antennae; Brown and rotting fruit; Rolled leaves or clusters of inflorescences tied with silk",
+   "pest_photo": "https://www.aphis.usda.gov/wcm/connect/e6e6c052-9fef-45e9-a5cc-9c0dc11f65fa/egvm-slide1.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE-e6e6c052-9fef-45e9-a5cc-9c0dc11f65fa-mosEl3L",
+   "pest_solutions": "Management strategies include chemical control, mating disruption, and fruit removal. "
+ },
+ {
+   "pest_id": 9,
+   "pest_name": "European Gypsy Moth",
+   "pest_symptoms": "Visible egg masses are covered with buff or yellowish hair from the abdomen of the female and averages about 1 1/2 inches long and about 3/4 of an inch wide; Visible caterpillars are black and hairy when newly hatched. Later stages of the larvae develop a mottled yellow to gray pattern with tufts of bristle-like hairs and a distinctive color pattern of five pairs of blue dots followed by six pairs of red dots along their backs; Visible adult moths are brown with a darker brown pattern on their wings for males and have a 1 1/2 inch wingspan. Females are slightly larger, with a two-inch wingspan and nearly white with dark saw-toothed patterns on their wings; Defoliated trees",
+   "pest_photo": "https://www.aphis.usda.gov/wcm/connect/bcf30e42-e687-4a50-a552-063273f18028/egm-slide2.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE-bcf30e42-e687-4a50-a552-063273f18028-mosEJq6",
+   "pest_solutions": "Using a pest barrier can help prevent infestation. Chemical sprays can be used to help control caterpillar infestations."
+ },
+ {
+   "pest_id": 10,
+   "pest_name": "False Codling Moth",
+   "pest_symptoms": "Visible caterpillars are whitish and spotted, while mature caterpillars are pinkish and 3/5 inches in length; Visible adult moths are small, brownish gray, nocturla moths with an average wingspan of 3/5 inches; Visible eggs on fruits and vegetables are whitish, flat, and oval",
+   "pest_photo": "https://www.aphis.usda.gov/wcm/connect/a3dac49b-22ff-45aa-ba36-f91f4f66d618/fcm-slide4.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE-a3dac49b-22ff-45aa-ba36-f91f4f66d618-mosEEKC",
+   "pest_solutions": "Chemical sprays on trunks and main branches of infected trees. Use of pheromone traps to determine the peak flight period for moths and then release trichogramma wasps to attack eggs."
+ },
+ {
+   "pest_id": 11,
+   "pest_name": "Giant African Snail",
+   "pest_symptoms": "Almost 8 inches in length and 5 inches in maximum diameter, the snail's shell consists of seven to nine whorls, with a long and greatly swollen body whorl. The brownish shell with darker brown lengthwise stripes covers at least half the length of the snail",
+   "pest_photo": "https://www.aphis.usda.gov/wcm/connect/2a7dfc88-ee67-4d4e-a32a-318bdb1896f9/gas-slide2.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE-2a7dfc88-ee67-4d4e-a32a-318bdb1896f9-mosFdA3",
+   "pest_solutions": "Use of traps and baits can be effective to eliminate snails."
+ },
+ {
+   "pest_id": 12,
+   "pest_name": "Fire Ants",
+   "pest_symptoms": "Ants are 1/8 to 1/4 of an inch long and are reddish-brown or black in color; Ants that respond rapidly and aggressively when distrubed; Ant stings cause a burning sensation and intching blisters; Hard, mound-shaped nests that can get quite large, posing risks to field workers and farm equipment.",
+   "pest_photo": "https://www.aphis.usda.gov/wcm/connect/3ecdceae-b3da-4dfa-abc0-d160a9d460cc/ifa-slide1.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE-3ecdceae-b3da-4dfa-abc0-d160a9d460cc-mosExTv",
+   "pest_solutions": "The most effective way to kill fire ants is to use a two-step method that baits the queen a and other worker ants deep in the colony, and then use an insecticide on the mounds."
+ },
+ {
+   "pest_id": 13,
+   "pest_name": "Khapra Beetle",
+   "pest_symptoms": "The adult beetle is brown in color and small, between 2-3 millimeters long. Adults possess wings but are not known to fly; Small brown beetles, larvae or cast skins infesting grain, dried food, and cereal products; Similar infestation signs on almost any dried animal matter, including dog food. ",
+   "pest_photo": "https://www.aphis.usda.gov/wcm/connect/a7e13fdf-1cf7-49ec-8ab8-97ff827a25b7/kb-slide3.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE-a7e13fdf-1cf7-49ec-8ab8-97ff827a25b7-mosELVE",
+   "pest_solutions": "Chemical treatments can be used to prevent and lessen infestation."
+ },
+ {
+   "pest_id": 14,
+   "pest_name": "Light Brown Apple Moth",
+   "pest_symptoms": "Caterpillars are green and just over half an inch long. They are often confused with other species and testing is need to confirm identity. Caterpillars create a protective covering by webbing new leaves together and feeding within this protected area; Adult moths are approximately 1/3 to 2/5 inches long. Adult coloring varies, but they are generally a pale yellowish-brown with darker brown markings on their forewings; Damaged fruit or vegetables",
+   "pest_photo": "https://www.aphis.usda.gov/wcm/connect/4bec6e2d-abe4-4009-a69a-b3575e0ad3fd/slide1.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE-4bec6e2d-abe4-4009-a69a-b3575e0ad3fd-mosErSv",
+   "pest_solutions": "Removal of mummified fruit and well-timed spray treatments can help an infestation. "
+ },
+ {
+   "pest_id": 15,
+   "pest_name": "Mediterranean Fruit Fly",
+   "pest_symptoms": "Fallen fruit with early decay; Adult flies are a blackish thorax marked with silver, a tan abdomen with darker stripes and clear wings with light brown bands and gray flecks.",
+   "pest_photo": "https://www.aphis.usda.gov/wcm/connect/db032ce2-ee52-4a19-8665-4a2dd09ccc94/mff-slide1.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE-db032ce2-ee52-4a19-8665-4a2dd09ccc94-mosEmD1",
+   "pest_solutions": "Chemical sprays can help prevent and lessen infestation."
+ },
+ {
+   "pest_id": 16,
+   "pest_name": "Mexican Fruit Fly",
+   "pest_symptoms": "Adult flies are larger than a house fly, the body is a pale orange-yellow with two to three witish stripes along the thorax. The wings are clear with several yellow and brown stripes. The female is distinguished by a long and slender ovipositor; Larvae are legless, white to yellowish-white, and grows to a length of 2/5 inches",
+   "pest_photo": "https://www.aphis.usda.gov/wcm/connect/300e7db2-1fde-40c3-b783-4fb199af7bb6/mexff-slide4.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE-300e7db2-1fde-40c3-b783-4fb199af7bb6-mosEVbC",
+   "pest_solutions": "Chemical sprays can help prevent and lessen infestation."
+ },
+ {
+   "pest_id": 17,
+   "pest_name": "Old World Bollworm",
+   "pest_symptoms": "Adult moths and larvae on the flowers, fruit, or leaves of host plants; Holes bored into the base of flower budgs, fruit, or boils; Other signs of damage to leaves and shoots; Young fruit or bolls that fall prematurely",
+   "pest_photo": "https://www.aphis.usda.gov/wcm/connect/8347c16c-e0c8-46d8-9454-9a10ef1f2513/obw-slide5.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE-8347c16c-e0c8-46d8-9454-9a10ef1f2513-mosEoQt",
+   "pest_solutions": "Do not transport to or from a different geographic region and use of traps can help limit populations."
+ },
+ {
+   "pest_id": 18,
+   "pest_name": "Oriental Fruit Fly",
+   "pest_symptoms": "Adult flies are larger than a house fly, the body color is variable but generally bright yellow with a dark \"T\" shaped marking on the abdomen. The wings are clear and the female has a pointed slender ovipositor; Larvae are legless, white to yellowish-white and grow to a length of 2/5 inches.",
+   "pest_photo": "https://www.aphis.usda.gov/wcm/connect/094a9a8b-7424-4412-b71a-9ca6b56c4b56/off-slide5.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE-094a9a8b-7424-4412-b71a-9ca6b56c4b56-mosEHrP",
+   "pest_solutions": "Chemical sprays can help prevent and lessen infestation."
+ },
+ {
+   "pest_id": 19,
+   "pest_name": "Pale Cyst Nematode",
+   "pest_symptoms": "Patches of poor growth in potato fields; Potato plants may exhibit yellowing, wilting, or death of foliage.",
+   "pest_photo": "https://www.aphis.usda.gov/wcm/connect/dfcf9f0d-0db0-4ab5-80cd-06b1a7db737e/1/pcn-cover-image.png?MOD=AJPERES&CVID=",
+   "pest_solutions": "Quaratine infected fields and fumigation with methyl bromide."
+ },
+ {
+   "pest_id": 20,
+   "pest_name": "Pine Shoot Beetle",
+   "pest_symptoms": "Dieback, yellowing, and bored-out shoots under infested trees; Adults create exit and entrance holes about 2 to 3mm in size near the broekn end of shoots; First and second year shoots begin yellowing and eventually turn red in the early summer",
+   "pest_photo": "https://www.aphis.usda.gov/wcm/connect/80e5f5d3-d1a1-4eb2-99b6-0b0930059d7b/1/psb.jpg?MOD=AJPERES&CVID=",
+   "pest_solutions": "Debarking of timber and precisely timing any cutting operations."
+ },
+ {
+   "pest_id": 21,
+   "pest_name": "Potato Wart",
+   "pest_symptoms": "Symptoms above ground are not often visible; Young potato warts are white in color, soft and pulpy in texture darkening and decaying as they age. ",
+   "pest_photo": "https://cropscience.bayer.co.uk/media/103035213/wart-disease.png",
+   "pest_solutions": "Chemical treatments can eradicate remaining soil inoculum."
+ },
+ {
+   "pest_id": 22,
+   "pest_name": "Spotted Latternfly",
+   "pest_symptoms": "Plants that ooze or weep and have a fermented odor; Buildup of sticky fluid on plants and on the ground underneath infested pants; Sooty mold on infested plants",
+   "pest_photo": "https://www.aphis.usda.gov/wcm/connect/d2d4ef9b-f4fa-4c6b-ae53-95c67cf70bc4/sl-slide1.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE-d2d4ef9b-f4fa-4c6b-ae53-95c67cf70bc4-mosE-43",
+   "pest_solutions": "Stop the spread by scraping away eggs and band trees to catch numphs. Apply chemical insecticides."
+ },
+ {
+   "pest_id": 23,
+   "pest_name": "Chrysanthemum White Rust",
+   "pest_symptoms": "Small white to yellow spots up to 4mm wide on the upper surface of the leaf which may become brown over time; Pustules form on the underside of the leaf beneath the small spots. These are buff to pink-colored and become white as they age; Infected plants do not always express sumptoms during hot and dry conditions, but rather they usually appear during cooler, wet weather. ",
+   "pest_photo": "https://gardening.which.co.uk/hc/en-gb/article_attachments/115001078929/GGJ88F.jpg",
+   "pest_solutions": "Quarantine infected trees to help prevent the rapid spread. "
+ },
+ {
+   "pest_id": 24,
+   "pest_name": "Citrus Black Spot",
+   "pest_symptoms": "Young foliar lesions are small, round, slightly raised, reddish-brown with light centers and a diffuse yellow halo. Older lesions are sunken with a fray center and dark brown margin; Hard spots are a type of lesion that have tan to gray centers with a distinct or prominent brick-red to dark brown margin; False melanose appear as numerous, small lesions that are dark brown, raised, and less than 1mm in diameter; Freckle spot lesions are round, depressed lesions that are 1 to 3mm in diameter and reddish in color; Cracked spot lesions are dark, smooth, and variable in size with irregular margins and a cracked surface; Virulent spot lesions occur on heavily-infected mature fruit toward the end of the growing season and are necrotic, sunken, and irregular lesions that cover a large area of the fruit. ",
+   "pest_photo": "https://www.aphis.usda.gov/wcm/connect/28694759-8267-4209-a680-c364f29662ff/1/citrus-black-spot-page.jpg?MOD=AJPERES&CVID=",
+   "pest_solutions": "Tree removal is the only known treatment since there is no cure."
+ },
+ {
+   "pest_id": 25,
+   "pest_name": "Citrus Canker",
+   "pest_symptoms": "Lesions on citrus leaves, stems, and fruit. Lesions are raised and brown, have water-soaked margins, and usually have a yellow halo surrounding the lesion. Older lesions appear corky. ",
+   "pest_photo": "https://www.aphis.usda.gov/wcm/connect/e338ce9c-436c-42d9-af56-13f3cce4c24b/1/citrus-canker-page.jpg?MOD=AJPERES&CVID=",
+   "pest_solutions": "Disease management helps control the spread of this disease by managing the timely application of copper-containing products."
+ },
+ {
+   "pest_id": 26,
+   "pest_name": "Citrus Greening",
+   "pest_symptoms": "Visible psyllids or waxy psyllid dropping; Lopsided, bitter, hard fruit with small, dark aborted seed; Fruit that remains green even when ripe; Asymmetrical blotchy mottling of leaves; Yellow shoots; Twig dieback; Stunted, sparsely foliated trees that may bloom off season",
+   "pest_photo": "https://www.aphis.usda.gov/wcm/connect/1436299e-1119-432e-830d-a70cd373f657/slide-leaves.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE-1436299e-1119-432e-830d-a70cd373f657-mosF3-Z",
+   "pest_solutions": "Controlling psyllid populations and destroying infected trees."
+ },
+ {
+   "pest_id": 27,
+   "pest_name": "Euopean Larch Canker",
+   "pest_symptoms": "Fungus kills the growing bark, resulting in swellings on twigs and branches and sunken cankers on larger stems; Resin is exuded; The bark cracks and is loosened; A ridge of wood develops around enlarging cankers on stems and trunks as the tree grows; Needles above the canker shrivel up and die or turn yellow early..",
+   "pest_photo": "https://www.aphis.usda.gov/wcm/connect/b7df6e90-1a6b-4a66-a2fa-eead3f2c3e47/1/elc-image.png?MOD=AJPERES&CVID=",
+   "pest_solutions": "Destruction of the infected trees and branches can help eradicate the pathogen. "
+ },
+ {
+   "pest_id": 28,
+   "pest_name": "Plum Pox",
+   "pest_symptoms": "Reduction in yield and marketability; Circular spots on skin of stone fruits",
+   "pest_photo": "https://www.aphis.usda.gov/wcm/connect/be50da12-c93b-4d0a-b383-2893d95f265c/1/plumpox.jpg?MOD=AJPERES&CVID=",
+   "pest_solutions": "Control and preventative measures including field surveys, certified nursery stock, use of resistant varieties, control of aphid vectors, and elimination of infected trees."
+ },
+ {
+   "pest_id": 29,
+   "pest_name": "Sudden Oak Death",
+   "pest_symptoms": "Bark cankers, calluses on woody portions of trees that are often seeping black or reddish ooze; Leaf spots; Twig dieback",
+   "pest_photo": "https://www.aphis.usda.gov/wcm/connect/cf50840d-2f93-4391-acaa-666d5046f67f/sod-slide1.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE-cf50840d-2f93-4391-acaa-666d5046f67f-mosExf6",
+   "pest_solutions": "Prevention is the only method to avoid this disease by monitoring trees closely. "
+ },
+ {
+   "pest_id": 30,
+   "pest_name": "Sweet Orange Scab",
+   "pest_symptoms": "Lesions on a young fruit that are slightly raised and pink to light brown. As the lesion expands, it becomes cracked or warty. The lesion color changes to yellowish brown and eventually to dark gray.",
+   "pest_photo": "https://www.aphis.usda.gov/wcm/connect/b2ba0b8a-1023-4b60-b43e-c34e59ac69bc/1/sweet-orange-scab-page.jpg?MOD=AJPERES&CVID=",
+   "pest_solutions": "A copper fungicide can be used to spray the affected tree before it blooms. To reduce occurrence, remove all the old fruit from the tree. "
+ }
+]

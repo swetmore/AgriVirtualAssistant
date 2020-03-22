@@ -1,0 +1,58 @@
+[
+ {
+   "pcat_id": 1,
+   "pcat_name": "Plant Pest"
+ },
+ {
+   "pcat_id": 2,
+   "pcat_name": "Plant Disease"
+ },
+ {
+   "pcat_id": 3,
+   "pcat_name": "Weeds"
+ },
+ {
+   "pcat_id": 4,
+   "pcat_name": "Trees"
+ },
+ {
+   "pcat_id": 5,
+   "pcat_name": "Crops"
+ },
+ {
+   "pcat_id": 6,
+   "pcat_name": "Vegetables"
+ },
+ {
+   "pcat_id": 7,
+   "pcat_name": "Fruit"
+ },
+ {
+   "pcat_id": 8,
+   "pcat_name": "Citrus"
+ },
+ {
+   "pcat_id": 9,
+   "pcat_name": "Cotton"
+ },
+ {
+   "pcat_id": 10,
+   "pcat_name": "Grain"
+ },
+ {
+   "pcat_id": 11,
+   "pcat_name": "Flowers"
+ },
+ {
+   "pcat_id": 12,
+   "pcat_name": "Insects and Mites"
+ },
+ {
+   "pcat_id": 13,
+   "pcat_name": "Mollusks"
+ },
+ {
+   "pcat_id": 14,
+   "pcat_name": "Nematodes"
+ }
+]
