@@ -10,7 +10,9 @@ const responsive = {
 };
 
 //Agriculture Techniques
-const videos = ["M_dBCOzFSAE", "IH_kGijV8so"];
+const videos =["M_dBCOzFSAE","IH_kGijV8so", "461Du-r4y7o", "ryzhaiBoB4g", "2xKmkO6o5_I", "wJjDAnwTwAY", 
+"NOYSOb6UTOc", "ICfDSZrdjE4", "73T7kysSwQU", "VwOLVSKPcW4", "dnCQuwCtqJg", "HHDgsK09-1k", "pqjHT8MFSow",
+"AsNLvO_AsKY", "i29Vea7ShyI", "6dg-ufvI-mU", "vPRySy3Qtvs" ];
 
 class Cat3 extends React.Component {
   render() {
