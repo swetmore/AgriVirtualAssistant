@@ -10,7 +10,8 @@ const responsive = {
 };
 
 //preservation video's
-const videos = ["M_dBCOzFSAE", "IH_kGijV8so"];
+const videos = ["Iy0Yk2QJGoY", "6vQW8Tl_KLc", "-4OBcRHX1Bc", 
+"nY9lu-dn1F8","vq4d1_46C8U", "v9DKJ7SE2lc", "4d0kgyVY4g8" ];
 
 class Cat1 extends React.Component {
   render() {
