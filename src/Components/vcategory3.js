@@ -1,15 +1,15 @@
 import React from "react";
 import Carousel from "react-multi-carousel";
-
 import Video from "./video";
 
 const responsive = {
-  doesntmatter: {
+  vids: {
     breakpoint: { max: 3000, min: 0 },
     items: 1
   }
 };
 
+//Agriculture Techniques
 const videos = ["M_dBCOzFSAE", "IH_kGijV8so"];
 
 class Cat3 extends React.Component {
@@ -18,7 +18,7 @@ class Cat3 extends React.Component {
       <Carousel swipeable={false} draggable={false} responsive={responsive}>
         {videos.map(id => {
           return <Video id={id} key={id} />;
-        })}
+         })}
       </Carousel>
     );
   }
