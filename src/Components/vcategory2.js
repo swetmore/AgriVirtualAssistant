@@ -10,7 +10,8 @@ const responsive = {
 };
 
 //productivity
-const videos = ["Zm_Le4YKwTM", "QnX0fLANGec"];
+const videos = ["Zm_Le4YKwTM", "QnX0fLANGec","vFKk20PCf6E", "ntJouJhLM48", "CpuEIkjH6iw", 
+"TN052R8xST4", "15ff4mpKtyc", "1-tmiRQwv_A", "-dhdUoK7s2s", "gn6cd1BNDLk" ];
 
 class Cat2 extends React.Component {
   render() {
