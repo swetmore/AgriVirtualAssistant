@@ -4,6 +4,7 @@ import { BrowserRouter as Router, Route, Switch, Link, Redirect } from "react-ro
 import MainPage from "./Pages/homepage";
 import WeatherPage from "./Pages/weatherpage";
 import PestPage from "./Pages/pestpage";
+import PhotoPage from "./Pages/photopage"
 import ErrorPage from './Pages/errorpage';
 import Navbar from './Components/navigationbar';
 import MuiThemeProvider from '@material-ui/core/styles/MuiThemeProvider'
