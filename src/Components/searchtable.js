@@ -1,8 +1,6 @@
-import * as React from 'react';
+import React from "react";
 import firebase from './firebase';
-import { FilteredVTable, GivenVTable } from 'react-virtualized-table'
-import 'material-design-icons/iconfont/material-icons.css'
-import 'react-virtualized-table/dist/style.css'
+import MaterialTable from "material-table";
 
 class PestTable extends React.Component {
     constructor() {
@@ -14,7 +12,6 @@ class PestTable extends React.Component {
     componentDidMount() {
         this.getPests().then(result => this.setState({
             res: result,
-            height: 100
         }))
     }
     getPests = async () => {
@@ -26,29 +23,33 @@ class PestTable extends React.Component {
                 name: doc.data().pest_name,
                 solution: doc.data().pest_solutions,
                 symptoms: doc.data().pest_symptoms,
-                photo: doc.data().pest_photo
             })
         ))
         return rows;
     };
-    render() {
-        const columns = GivenVTable.columns()
-            .addSortableColumnFor('name')
-            .addColumnFor('symptoms')
-            .addColumnFor('solution')
-            .addColumnFor('photo')
-            .result
+    render()
+    {
+const TableExample = () => {
+    return (
+      <MaterialTable
+        title="Pests"
+        columns={[
+            {title: "Name", field: "name"},
+            {title: "Symptoms", field: "symptoms"},
+            {title: "Solution", field: "solution"}
+        ]}
+     
+        data={this.state.res}
 
+        options={{
+          filtering: true
+        }}
+      />
+    );
+  };
         return (
-            <div >
-               <h1>Pest Search</h1> 
-                <FilteredVTable
-                height ={500}
-                    items={this.state.res}
-                    columns={columns} 
-                    stickyHead = {true}
-                    rowHeight = {300}
-                    />
+            <div>
+        <TableExample />
             </div>
         );
     }
