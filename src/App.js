@@ -4,6 +4,7 @@ import { BrowserRouter as Router, Route, Switch, Link, Redirect } from "react-ro
 import MainPage from "./Pages/homepage";
 import WeatherPage from "./Pages/weatherpage";
 import PestPage from "./Pages/pestpage";
+import PhotoPage from "./Pages/photopage"
 import ErrorPage from './Pages/errorpage';
 import Navbar from './Components/navigationbar';
 import MuiThemeProvider from '@material-ui/core/styles/MuiThemeProvider'
@@ -11,6 +12,7 @@ import createMuiTheme from '@material-ui/core/styles/createMuiTheme'
 import VideoPage1 from './Pages/videopage1'
 import VideoPage2 from './Pages/videopage2'
 import VideoPage3 from './Pages/videopage3'
+import Info from './Pages/info';
 
 const theme = createMuiTheme({
   palette: {
@@ -38,7 +40,8 @@ class App extends React.Component {
               <Route exact path="/videopage2" component={VideoPage2} />
               <Route exact path="/videopage3" component={VideoPage3} />
               <Route exact path="/pestpage" component={PestPage} />
-              <Route exact patg="/photopage" component={PhotoPage} />
+              <Route exact path="/photopage" component={PhotoPage} />
+              <Route exact path="/info" component={Info}/>
               <Route exact path="/errorpage" component={ErrorPage} />
               <Redirect to="/errorpage" />
             </Switch>
