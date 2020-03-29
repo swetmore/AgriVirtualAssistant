@@ -38,6 +38,7 @@ class App extends React.Component {
               <Route exact path="/videopage2" component={VideoPage2} />
               <Route exact path="/videopage3" component={VideoPage3} />
               <Route exact path="/pestpage" component={PestPage} />
+              <Route exact patg="/photopage" component={PhotoPage} />
               <Route exact path="/errorpage" component={ErrorPage} />
               <Redirect to="/errorpage" />
             </Switch>
