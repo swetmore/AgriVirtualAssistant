@@ -110,19 +110,19 @@ button:hover {
 }
 
 .previousButton, .nextButton {
-		position: absolute;
-		top: 50%;
-		transform: translateY(-50%);
-		z-index: 10;
-		background: url('http://svgshare.com/i/41_.svg') no-repeat center center / 16px;
-		width: 32px;
-		height: 32px;
-		text-indent: -9999px;
-		cursor: pointer;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 10;
+  background: url('https://i.imgur.com/HuxNxYt.png') no-repeat center center / 16px;
+  width: 64px;
+  height: 64px;
+  text-indent: -9999px;
+  cursor: pointer;
 }
 
 .previousButton:hover, .nextButton:hover {
-  background: url('http://svgshare.com/i/41_.svg') no-repeat center center / 16px;
+  background: url('https://i.imgur.com/HuxNxYt.png') no-repeat center center / 16px;
 }
 
 .previousButton {
