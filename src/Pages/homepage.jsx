@@ -12,7 +12,7 @@ import "../styles.css";
           button: "Learn More",
           image: "https://i.imgur.com/MY3sQYq.jpg",
           onItemClick: function (event) {
-            window.open("./info")
+            window.location.replace("./info")
           }
       },
       {
@@ -21,7 +21,7 @@ import "../styles.css";
           button: "Click Here",
           image: "https://i.imgur.com/Mul3rZ2.png",
           onItemClick: function (event) {
-            window.open("./weatherpage")
+            window.location.replace("./weatherpage")
           }
       },
       {
@@ -30,7 +30,7 @@ import "../styles.css";
           button: "Click Here",
           image: "https://i.imgur.com/ev47PN4.jpg",
           onItemClick: function (event) {
-            window.open("./videopage1")
+            window.location.replace("./videopage1")
           }
       },
       {
@@ -39,7 +39,7 @@ import "../styles.css";
           button: "Click Here",
           image: "https://i.imgur.com/uQPXN5a.jpg",
           onItemClick: function (event) {
-            window.open("./pestpage")
+            window.location.replace("./pestpage")
           }
       },
       {
@@ -48,7 +48,7 @@ import "../styles.css";
           button: "Click Here",
           image: "https://i.imgur.com/ulBbicY.jpg",
           onItemClick: function (event) {
-            window.open("./photopage")
+            window.location.replace("./photopage")
           }
       }
   ];
