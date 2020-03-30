@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Adamina&display=swap');
+
+body {
+    background-color: #bbdefb;
+    background-image: url('./Components/pattern.png') !important;
+}
+
+.nav {
+    margin: auto !important;
+}
+
+.navLogo {
+    font-family: 'Adamina', serif !important;
+    color: #ffffff !important;
+    font-size: 25px !important;
+    margin-right: 15px !important;
+}
+
+.navLink {
+    font-family: 'Oswald', sans-serif !important;
+    font-size: 20px !important;
+    margin-right: 10px !important;
+    margin-left: 10px !important;
+}
+
+.nav a.navLink:hover {
+    color: #ffffff !important;
+}
+
+.navSubLink {
+    font-family: 'Oswald', sans-serif !important;
+    font-size: 18px !important;
+    text-transform: uppercase !important;
+}
