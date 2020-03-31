@@ -49,6 +49,8 @@ export default function Navbar() {
                     Search Pests</Typography></Button>
                 <Button color="inherit" component={Link} to="/photopage"><Typography variant="h6" color="inherit">
                     Pest Photos</Typography></Button>
+                <Button color="inherit" component={Link} to="/info"><Typography variant="h6" color="inherit">
+                    Info</Typography></Button>
             </Toolbar>
         </AppBar>
     )
