@@ -45,21 +45,28 @@ class WeatherPage extends React.Component {
         var data = undefined;
 
         //fetching forecast
-        if (city && isState) {
+         if (city && isState) {
             const forecast_api_call = await fetch(`https://api.weatherbit.io/v2.0/forecast/daily?city=${city}&state=${state}&country=US&key=${API_KEY}&units=I`);
-            data = await forecast_api_call.json();
-            
-            //we only want 10 days, data is 16 days
-            var spliced = (data.data).splice(0, 10);
-            console.log(data);
 
-            this.setState({
-                forecast: spliced,
-                city_name: data.city_name,
-                state_code: data.state_code,
-                timezone: data.timezone,
-                error: ""
-            }, () => console.log(this.state))
+            data = await forecast_api_call.text();
+            console.log(data);
+            const json = data === "" ? undefined : JSON.parse(data);
+
+            if (json !== undefined) {
+                //we only want 10 days, data is 16 days
+                var spliced = (json.data).splice(0, 10);
+
+                this.setState({
+                    forecast: spliced,
+                    city_name: json.city_name,
+                    state_code: json.state_code,
+                    timezone: json.timezone,
+                    error: ""
+                }, () => console.log(this.state))
+            }
+            else{
+                this.setState({error: "Invalid Input. Make sure your have spelled the city and state correctly"})
+            }
         }
         else {
             this.setState({
@@ -81,20 +88,23 @@ class WeatherPage extends React.Component {
     //format the days of forecast
     formatDays = () => {
         //only do so if no error
-        if (this.state.error === "")
+        if (this.state.error === "") {
             return this.state.forecast.map((reading, index) => <WeatherDisplay reading={reading} key={index} />);
+        }
         else
             return this.state.error;
 
     }
 
     render() {
+
         return (
             <div className="App">
                 <h4>Weather Forecast</h4>
                 <WeatherForm getWeather={this.getWeather} />
                 <div className="row justify-content-center">
-                    <h3>{this.state.city_name},{this.state.state_code}</h3>
+                    <h1></h1>
+                    <h3>{this.state.city_name} {this.state.state_code}</h3>
                 </div>
                 <div className="row justify-content-center">
                     {this.formatDays()}
