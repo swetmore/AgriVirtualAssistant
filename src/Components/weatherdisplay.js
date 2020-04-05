@@ -12,6 +12,10 @@ const WeatherDisplay = ({ reading }) => {
       <img src={`http://weatherbit.io/static/img/icons/${reading.weather.icon}.png`} alt='weather icon' />
       <h4>{Math.round(reading.max_temp)} °F</h4>
       <h4>{Math.round(reading.min_temp)} °F</h4>
+      <h4>    </h4>
+      <h4>    </h4>
+      <h4>    </h4>
+      <h4>    </h4>
     </div>
   )
 }
