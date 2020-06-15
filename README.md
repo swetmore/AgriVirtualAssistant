@@ -1,3 +1,12 @@
+This is a project designed for farmers that shows the weather forecast, educational videos and pest database with solutions.
+
+The site is live at https://agri-virtual-assistant.netlify.app/
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
