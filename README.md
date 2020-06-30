@@ -2,9 +2,20 @@ This is a project designed for farmers that shows the weather forecast, educatio
 
 The site is live at https://agri-virtual-assistant.netlify.app/
 
+## Home Page
+![Home Page](https://i.postimg.cc/X79QXYLK/HomePage.png)
 
+## Weather Page
+![Weather Page](https://i.postimg.cc/WzNbr3rD/Weather-Page.png)
 
+## Videos Page
+![Videos Page](https://i.postimg.cc/j5VhsVf3/Video-Page.png)
 
+## Search Page
+![Search Page](https://i.postimg.cc/d1KGb2Mz/Search-Page.png)
+
+## Photos Page
+![Photos Page](https://i.postimg.cc/K86TTPYR/Photos-Page.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
