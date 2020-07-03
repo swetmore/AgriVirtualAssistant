@@ -1,7 +1,7 @@
 import React from 'react';
 import WeatherForm from "../Components/weatherform"
 import WeatherDisplay from '../Components/weatherdisplay'
-const API_KEY = 'b5fe4211856f435bb8f5b441dff7eb01';
+const API_KEY = 'API_KEY';
 
 class WeatherPage extends React.Component {
     state = {
